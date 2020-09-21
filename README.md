@@ -1,0 +1,2 @@
+# mandelbrot
+Python fractals project
